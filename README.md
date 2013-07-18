@@ -11,7 +11,7 @@ DemoCRUD
 ![编辑用户](https://github.com/chyxion/DemoCRUD/raw/master/edit.png)
 
 * 删除用户
-![删除用户](https://github.com/chyxion/DemoCRUD/raw/master/edit.png)
+![删除用户](https://github.com/chyxion/DemoCRUD/raw/master/delete.png)
 
 License
 ==================================
